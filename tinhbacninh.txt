@@ -1,0 +1,16 @@
+#Tỉnh Bắc Ninh
+
+thanhphobacninh=["Thành Phố Bắc Ninh","Phường Đại Phúc","Phường Đáp Cầu","Phường Hạp Lĩnh","Phường Hòa Long","Phường Khắc Niệm","Phường Khúc Xuyên","Phường Kim Chân","Phường Kinh Bắc","Phường Nam Sơn","Phường Ninh Xá","Phường Phong Khê","Phường Suối Hoa","Phường Thị Cầu","Phường Tiền An","Phường Vạn An","Phường Vân Dương","Phường Vệ An","Phường Võ Cường","Phường Vũ Ninh"]
+thixatuson=["Thị Xã Từ Sơn","Phường Châu Khê","Phường Đình Bảng","Phường Đồng Kỵ","Phường Đông Ngàn","Phường Đồng Nguyên","Phường Hương Mạc","Phường Phù Chẩn","Phường Phù Khê","Phường Tam Sơn","Phường Tân Hồng","Phường Trang Hạ","Phường Tương Giang"]
+huyengiabinh=["Huyện Gia Bình","Thị Trấn Gia Bình","Xã Bình Dương","Xã Cao Đức","Xã Đại Bái","Xã Đại Lai","Xã Đông Cứu","Xã Giang Sơn","Xã Lãng Ngâm","Xã Nhân Thắng","Xã Quỳnh Phú","Xã Song Giang","Xã Thái Bảo","Xã Vạn Ninh","Xã Xuân Lai"]
+huyenluongtai=["Huyện Lương Tài","Thị Trấn Thứa","Xã An Thịnh","Xã Bình Định","Xã Lai Hạ","Xã Lâm Thao","Xã Minh Tân","Xã Mỹ Hương","Xã Phú Hòa","Xã Phú Lương","Xã Quảng Phú","Xã Tân Lãng","Xã Trung Chính","Xã Trung Kênh","Xã Trừng Xá"]
+huyenquevo=["Huyện Quế Võ","Thị Trấn Phố Mới","Xã Bằng An","Xã Bồng Lai","Xã Cách Bi","Xã Châu Phong","Xã Chi Lăng","Xã Đại Xuân","Xã Đào Viên","Xã Đức Long","Xã Hán Quảng","Xã Mộ Đạo","Xã Ngọc Xá","Xã Nhân Hòa","Xã Phù Lãng","Xã Phù Lương","Xã Phương Liễu","Xã Phượng Mao","Xã Quế Tân","Xã Việt Hùng","Xã Việt Thống","Xã Yên Giả"]
+huyenthuanthanh=["Huyện Thuận Thành","Thị Trấn Hồ","Xã An Bình","Xã Đại Đồng Thành","Xã Đình Tổ","Xã Gia Đông","Xã Hà Mãn","Xã Hoài Thượng","Xã Mão Điền","Xã Nghĩa Đạo","Xã Ngũ Thái","Xã Nguyệt Đức","Xã Ninh Xá","Xã Song Hồ","Xã Song Liễu","Xã Thanh Khương","Xã Trạm Lộ","Xã Trí Quả","Xã Xuân Lâm"]
+huyentiendu=["Huyện Tiên Du","Thị Trấn Lim","Xã Cảnh Hưng","Xã Đại Đồng","Xã Hiên Vân","Xã Hoàn Sơn","Xã Lạc Vệ","Xã Liên Bão","Xã Minh Đạo","Xã Nội Duệ","Xã Phật Tích","Xã Phú Lâm","Xã Tân Chi","Xã Tri Phương","Xã Việt Đoàn"]
+huyenyenphong=["Huyện Yên Phong","Thị Trấn Chờ","Xã Đông Phong","Xã Đông Thọ","Xã Đông Tiến","Xã Dũng Liệt","Xã Hòa Tiến","Xã Long Châu","Xã Tam Đa","Xã Tam Giang","Xã Thụy Hòa","Xã Trung Nghĩa","Xã Văn Môn","Xã Yên Phụ","Xã Yên Trung"]
+
+tinhbacninh=["Tỉnh Bắc Ninh",thanhphobacninh,thixatuson,huyengiabinh,huyenluongtai,huyenquevo,huyenthuanthanh,huyentiendu,huyenyenphong]
+
+for huyen in tinhbacninh[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhbacninh[0])))

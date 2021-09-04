@@ -1,0 +1,19 @@
+#Tỉnh Sóc Trăng
+
+thanhphosoctrang=["Thành Phố Sóc Trăng","Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7","Phường 8","Phường 9","Phường 10"]
+thixanganam=["Thị Xã Ngã Năm","Phường 1","Phường 2","Phường 3","Xã Long Bình","Xã Mỹ Bình","Xã Mỹ Quới","Xã Tân Long","Xã Vĩnh Quới"]
+thixavinhchau=["Thị Xã Vĩnh Châu","Phường 1","Phường 2","Phường Khánh Hòa","Phường Vĩnh Phước","Xã Hòa Đông","Xã Lạc Hòa","Xã Lai Hòa","Xã Vĩnh Hải","Xã Vĩnh Hiệp","Xã Vĩnh Tân"]
+huyenchauthanh=["Huyện Châu Thành","Thị Trấn Châu Thành","Xã An Hiệp","Xã An Ninh","Xã Hồ Đắc Kiện","Xã Phú Tâm","Xã Phú Tân","Xã Thiện Mỹ","Xã Thuận Hòa"]
+huyenculaodung=["Huyện Cù Lao Dung","Thị Trấn Cù Lao Dung","Xã An Thạnh 1","Xã An Thạnh 2","Xã An Thạnh 3","Xã An Thạnh Đông","Xã An Thạnh Nam","Xã An Thạnh Tây","Xã Đại Ân 1"]
+huyenkesach=["Huyện Kế Sách","Thị Trấn An Lạc Thôn","Thị Trấn Kế Sách","Xã An Lạc Tây","Xã An Mỹ","Xã Ba Trinh","Xã Đại Hải","Xã Kế An","Xã Kế Thành","Xã Nhơn Mỹ","Xã Phong Nẫm","Xã Thới An Hội","Xã Trinh Phú","Xã Xuân Hòa"]
+huyenlongphu=["Huyện Long Phú","Thị Trấn Đại Ngãi","Thị Trấn Long Phú","Xã Châu Khánh","Xã Hậu Thạnh","Xã Long Đức","Xã Long Phú","Xã Phú Hữu","Xã Song Phụng","Xã Tân Hưng","Xã Tân Thạnh","Xã Trường Khánh"]
+huyenmytu=["Huyện Mỹ Tú","Thị Trấn Huỳnh Hữu Nghĩa","Xã Hưng Phú","Xã Long Hưng","Xã Mỹ Hương","Xã Mỹ Phước","Xã Mỹ Thuận","Xã Mỹ Tú","Xã Phú Mỹ","Xã Thuận Hưng"]
+huyenmyxuyen=["Huyện Mỹ Xuyên","Thị Trấn Mỹ Xuyên","Xã Đại Tâm","Xã Gia Hòa 1","Xã Gia Hòa 2","Xã Hòa Tú 1","Xã Hòa Tú II","Xã Ngọc Đông","Xã Ngọc Tố","Xã Tham Đôn","Xã Thạnh Phú","Xã Thạnh Quới"]
+huyenthanhtri=["Huyện Thạnh Trị","Thị Trấn Hưng Lợi","Thị Trấn Phú Lộc","Xã Châu Hưng","Xã Lâm Kiết","Xã Lâm Tân","Xã Thạnh Tân","Xã Thạnh Trị","Xã Tuân Tức","Xã Vĩnh Lợi","Xã Vĩnh Thành"]
+huyentrande=["Huyện Trần Đề","Thị Trấn Lịch Hội Thượng","Thị Trấn Trần Đề","Xã Đại Ân  2","Xã Lịch Hội Thượng","Xã Liêu Tú","Xã Tài Văn","Xã Thạnh Thới An","Xã Thạnh Thới Thuận","Xã Trung Bình","Xã Viên An","Xã Viên Bình"]
+
+tinhsoctrang=["Tỉnh Sóc Trăng",thanhphosoctrang,thixanganam,thixavinhchau,huyenchauthanh,huyenculaodung,huyenkesach,huyenlongphu,huyenmytu,huyenmyxuyen,huyenthanhtri,huyentrande]
+
+for huyen in tinhsoctrang[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhsoctrang[0])))

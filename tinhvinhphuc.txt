@@ -1,0 +1,12 @@
+#tinhvinhphuc
+
+huyenbinhxuyen=['Huyện Bình Xuyên','Thị trấn Bá Hiến','Thị trấn Đạo Đức','Thị trấn Gia Khánh','Thị trấn Hương Canh','Thị trấn Thanh Lãng','Xã Hương Sơn','Xã Phú Xuân','Xã Quất Lưu','Xã Sơn Lôi','Xã Tam Hợp','Xã Tân Phong','Xã Thiện Kế','Xã Trung Mỹ']
+huyenlapthach=['Huyện Lập Thạch','Thị trấn Hoa Sơn','Thị trấn Lập Thạch','Xã Bắc Bình','Xã Bàn Giản','Xã Đình Chu','Xã Đồng Ích','Xã Hợp Lý','Xã Liên Hòa','Xã Liễn Sơn','Xã Ngọc Mỹ','Xã Quang Sơn','Xã Sơn Đông','Xã Thái Hòa','Xã Tiên Lữ','Xã Triệu Đề','Xã Tử Du','Xã Văn Quán','Xã Vân Trục','Xã Xuân Hòa','Xã Xuân Lôi']
+huyensonglo=['Huyện Sông Lô','Thị trấn Tam Sơn','Xã Bạch Lưu','Xã Cao Phong','Xã Đôn Nhân','Xã Đồng Quế','Xã Đồng Thịnh','Xã Đức Bác','Xã Hải Lựu','Xã Lãng Công','Xã Nhân Đạo','Xã Nhạo Sơn','Xã Như Thụy','Xã Phương Khoan','Xã Quang Yên','Xã Tân Lập','Xã Tứ Yên','Xã Yên Thạch']
+huyentamdao=['Huyện Tam Đảo','Thị trấn Đại Đình','Thị trấn Hợp Châu','Thị trấn Tam Đảo','Xã Bồ Lý','Xã Đạo Trù','Xã Hồ Sơn','Xã Minh Quang','Xã Tam Quan','Xã Yên Dương']
+huyentamduong=['Huyện Tam Dương','Thị trấn Hợp Hòa','Xã An Hòa','Xã Đạo Tú','Xã Đồng Tĩnh','Xã Duy Phiên','Xã Hoàng Đan','Xã Hoàng Hoa','Xã Hoàng Lâu','Xã Hợp Thịnh','Xã Hướng Đạo','Xã Kim Long','Xã Thanh Vân','Xã Vân Hội']
+huyenvinhtuong=['Huyện Vĩnh Tường','Thị Trấn Thổ Tang','Thị trấn Tứ Trưng','Thị trấn Vĩnh Tường','Xã An Tường','Xã Bình Dương','Xã Bồ Sao','Xã Cao Đại','Xã Chấn Hưng','Xã Đại Đồng','Xã Kim Xá','Xã Lũng Hoà','Xã Lý Nhân','Xã Nghĩa Hưng','Xã Ngũ Kiên','Xã Phú Đa','Xã Tam Phúc','Xã Tân Phú','Xã Tân Tiến','Xã Thượng Trưng','Xã Tuân Chính','Xã Vân Xuân','Xã Việt Xuân','Xã Vĩnh Ninh','Xã Vĩnh Sơn','Xã Vĩnh Thịnh','Xã Vũ Di','Xã Yên Bình','Xã Yên Lập']
+huyenyenlac=['Huyện Yên Lạc','Thị trấn Yên Lạc','Xã Bình Định','Xã Đại Tự','Xã Đồng Cương','Xã Đồng Văn','Xã Hồng Châu','Xã Hồng Phương','Xã Liên Châu','Xã Nguyệt Đức','Xã Tam Hồng','Xã Tề Lỗ','Xã Trung Hà','Xã Trung Kiên','Xã Trung Nguyên','Xã Văn Tiến','Xã Yên Đồng','Xã Yên Phương']
+thanhphophucyen=['Thành Phố Phúc Yên','Phường Đồng Xuân','Phường Hùng Vương','Phường Nam Viêm','Phường Phúc Thắng','Phường Tiền Châu','Phường Trưng Nhị','Phường Trưng Trắc','Phường Xuân Hoà','Xã Cao Minh','Xã Ngọc Thanh']
+thanhphovinhyen=['Thành Phố Vĩnh Yên','Phường Đống Đa','Phường Đồng Tâm','Phường Hội Hợp','Phường Khai Quang','Phường Liên Bảo','Phường Ngô Quyền','Phường Tích Sơn','Xã Định Trung','Xã Thanh Trù']
+tinhvinhphuc=['Tỉnh Vĩnh Phúc',huyenbinhxuyen,huyenlapthach,huyensonglo,huyentamdao,huyentamduong,huyenvinhtuong,huyenyenlac,thanhphophucyen,thanhphovinhyen]

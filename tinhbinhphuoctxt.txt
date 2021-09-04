@@ -1,0 +1,22 @@
+#Tỉnh Bình Phước
+
+thanhphodongxoai=["Thành Phố Đồng Xoài","Phường Tân Bình","Phường Tân Đồng","Phường Tân Phú","Phường Tân Thiện","Phường Tân Xuân","Phường Tiến Thành","Xã Tân Thành","Xã Tiến Hưng"]
+thixabinhlong=["Thị Xã Bình Long","Phường An Lộc","Phường Hưng Chiến","Phường Phú Đức","Phường Phú Thịnh","Xã Thanh Lương","Xã Thanh Phú"]
+thixaphuoclong=["Thị Xã Phước Long","Phường Long Phước","Phường Long Thủy","Phường Phước Bình","Phường Sơn Giang","Phường Thác Mơ","Xã Long Giang","Xã Phước Tín"]
+thixachonthanh=["Thị Xã Chơn Thành","Phường Hưng Long","Phường Minh Hưng","Phường Minh Long","Phường Minh Thành","Phường Thành Tâm","Xã Minh Lập","Xã Minh Thắng","Xã Nha Bích","Xã Quang Minh"]
+huyenbudang=["Huyện Bù Đăng","Thị Trấn Đức Phong","Xã Bình Minh","Xã Bom Bo","Xã Đak Nhau","Xã Đăng Hà","Xã Đoàn Kết","Xã Đồng Nai","Xã Đức Liễu","Xã Đường 10","Xã Minh Hưng","Xã Nghĩa Bình","Xã Nghĩa Trung","Xã Phú Sơn","Xã Phước Sơn","Xã Thọ Sơn","Xã Thống Nhất"]
+huyenbudop=["Huyện Bù Đốp","Thị Trấn Thanh Bình","Xã Hưng Phước","Xã Phước Thiện","Xã Tân Thành","Xã Tân Tiến","Xã Thanh Hòa","Xã Thiện Hưng"]
+huyenbugiamap=["Huyện Bù Gia Mập","Xã Bình Thắng","Xã Bù Gia Mập","Xã Đa Kia","Xã Đak Ơ","Xã Đức Hạnh","Xã Phú Nghĩa","Xã Phú Văn","Xã Phước Minh"]
+huyendongphu=["Huyện Đồng Phú","Thị Trấn Tân Phú","Xã Đồng Tâm","Xã Đồng Tiến","Xã Tân Hòa","Xã Tân Hưng","Xã Tân Lập","Xã Tân Lợi","Xã Tân Phước","Xã Tân Tiến","Xã Thuận Lợi","Xã Thuận Phú"]
+huyenhonquan=["Huyện Hớn Quản","Thị Trấn Tân Khai","Xã An Khương","Xã An Phú","Xã Đồng Nơ","Xã Minh Đức","Xã Minh Tâm","Xã Phước An","Xã Tân Hiệp","Xã Tân Hưng","Xã Tân Lợi","Xã Tân Quan","Xã Thanh An","Xã Thanh Bình"]
+huyenlocninh=["Huyện Lộc Ninh","Thị Trấn Lộc Ninh","Xã Lộc An","Xã Lộc Điền","Xã Lộc Hiệp","Xã Lộc Hòa","Xã Lộc Hưng","Xã Lộc Khánh","Xã Lộc Phú","Xã Lộc Quang","Xã Lộc Tấn","Xã Lộc Thái","Xã Lộc Thành","Xã Lộc Thạnh","Xã Lộc Thiện","Xã Lộc Thịnh","Xã Lộc Thuận"]
+huyenphurieng=["Huyện Phú Riềng","Xã Bình Sơn","Xã Bình Tân","Xã Bù Nho","Xã Long Bình","Xã Long Hà","Xã Long Hưng","Xã Long Tân","Xã Phú Riềng","Xã Phú Trung","Xã Phước Tân"]
+
+tinhbinhphuoc=["Tỉnh Bình Phước",thanhphodongxoai,thixabinhlong,thixaphuoclong,thixachonthanh,huyenbudang,huyenbudop,huyenbugiamap,huyendongphu,huyenhonquan,huyenlocninh,huyenphurieng]
+
+for huyen in tinhbinhphuoc[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhbinhphuoc[0])))
+
+
+

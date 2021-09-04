@@ -1,0 +1,17 @@
+#Tỉnh Bình Dương
+huyenbactanuyen=["Huyện Bắc Tân Uyên","Thị Trấn Tân Bình","Thị Trấn Tân Thành","Xã Bình Mỹ","Xã Đất Cuốc","Xã Hiếu Liêm","Xã Lạc An","Xã Tân Định","Xã Tân Lập","Xã Tân Mỹ","Xã Thường Tân"]
+huyenbaubang=["Huyện Bàu Bàng","Thị Trấn Lai Uyên","Xã Cây Trường II","Xã Hưng Hòa","Xã Lai Hưng","Xã Long Nguyên","Xã Tân Hưng","Xã Trừ Văn Thố"]
+huyendautieng=["Huyện Dầu Tiếng","Thị Trấn Dầu Tiếng","Xã An Lập","Xã Định An","Xã Định Hiệp","Xã Định Thành","Xã Long Hoà","Xã Long Tân","Xã Minh Hoà","Xã Minh Tân","Xã Minh Thạnh","Xã Thanh An","Xã Thanh Tuyền"]
+huyenphugiao=["Huyện Phú Giáo","Thị Trấn Phước Vĩnh","Xã An Bình","Xã An Linh","Xã An Long","Xã An Thái","Xã Phước Hoà","Xã Phước Sang","Xã Tam Lập","Xã Tân Hiệp","Xã Tân Long","Xã Vĩnh Hoà"]
+thanhphodian=["Thành Phố Dĩ An","Phường An Bình","Phường Bình An","Phường Bình Thắng","Phường Dĩ An","Phường Đông Hòa","Phường Tân Bình","Phường Tân Đông Hiệp"]
+thanhphothudaumot=["Thành Phố Thủ Dầu Một","Phường Chánh Mỹ","Phường Chánh Nghĩa","Phường Định Hoà","Phường Hiệp An","Phường Hiệp Thành","Phường Hoà Phú","Phường Phú Cường","Phường Phú Hòa","Phường Phú Lợi","Phường Phú Mỹ","Phường Phú Tân","Phường Phú Thọ","Phường Tân An","Phường Tương Bình Hiệp"]
+thanhphothuanan=["Thành Phố Thuận An","Phường An Phú","Phường An Thạnh","Phường Bình Chuẩn","Phường Bình Hòa","Phường Bình Nhâm","Phường Hưng Định","Phường Lái Thiêu","Phường Thuận Giao","Phường Vĩnh Phú","Xã An Sơn"]
+thixabencat=["Thị Xã Bến Cát","Phường Chánh Phú Hòa","Phường Hòa Lợi","Phường Mỹ Phước","Phường Tân Định","Phường Thới Hòa","Xã An Điền","Xã An Tây","Xã Phú An"]
+thixatanuyen=["Thị Xã Tân Uyên","Phường Hội Nghĩa","Phường Khánh Bình","Phường Phú Chánh","Phường Tân Hiệp","Phường Tân Phước Khánh","Phường Tân Vĩnh Hiệp","Phường Thái Hòa","Phường Thạnh Phước","Phường Uyên Hưng","Phường Vĩnh Tân","Xã Bạch Đằng","Xã Thạnh Hội"]
+
+tinhbinhduong=["Tỉnh Bình Dương",thanhphothudaumot,thanhphodian,thanhphothuanan,thixabencat,thixatanuyen,huyenbactanuyen,huyenbaubang,huyendautieng,huyenphugiao]
+
+
+for huyen in tinhbinhduong[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhbinhduong[0])))

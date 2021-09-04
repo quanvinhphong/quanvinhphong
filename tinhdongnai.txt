@@ -1,0 +1,18 @@
+#Tỉnh Đồng Nai
+huyencammy=["Huyện Cẩm Mỹ","Thị Trấn Long Giao","Xã Bảo Bình","Xã Lâm San","Xã Nhân Nghĩa","Xã Sông Nhạn","Xã Sông Ray","Xã Thừa Đức","Xã Xuân Bảo","Xã Xuân Đông","Xã Xuân Đường","Xã Xuân Mỹ","Xã Xuân Quế","Xã Xuân Tây"]
+huyendinhquan=["Huyện Định Quán","Thị Trấn Định Quán","Xã Gia Canh","Xã La Ngà","Xã Ngọc Định","Xã Phú Cường","Xã Phú Hòa","Xã Phú Lợi","Xã Phú Ngọc","Xã Phú Tân","Xã Phú Túc","Xã Phú Vinh","Xã Suối Nho","Xã Thanh Sơn","Xã Túc Trưng"]
+huyenlongthanh=["Huyện Long Thành","Thị Trấn Long Thành","Xã An Phước","Xã Bàu Cạn","Xã Bình An","Xã Bình Sơn","Xã Cẩm Đường","Xã Lộc An","Xã Long An","Xã Long Đức","Xã Long Phước","Xã Phước Bình","Xã Phước Thái","Xã Tam An","Xã Tân Hiệp"]
+huyennhontrach=["Huyện Nhơn Trạch","Thị Trấn Hiệp Phước","Xã Đại Phước","Xã Long Tân","Xã Long Thọ","Xã Phú Đông","Xã Phú Hội","Xã Phú Hữu","Xã Phú Thạnh","Xã Phước An","Xã Phước Khánh","Xã Phước Thiền","Xã Vĩnh Thanh"]
+huyentanphu=["Huyện Tân Phú","Thị Trấn Tân Phú","Xã Dak Lua","Xã Nam Cát Tiên","Xã Núi Tượng","Xã Phú An","Xã Phú Bình","Xã Phú Điền","Xã Phú Lâm","Xã Phú Lập","Xã Phú Lộc","Xã Phú Sơn","Xã Phú Thanh","Xã Phú Thịnh","Xã Phú Trung","Xã Phú Xuân","Xã Tà Lài","Xã Thanh Sơn","Xã Trà Cổ"]
+huyenthongnhat=["Huyện Thống Nhất","Thị Trấn Dầu Giây","Xã Bàu Hàm 2","Xã Gia Kiệm","Xã Gia Tân 1","Xã Gia Tân 2","Xã Gia Tân 3","Xã Hưng Lộc","Xã Lộ 25","Xã Quang Trung","Xã Xuân Thiện"]
+huyentrangbom=["Huyện Trảng Bom","Thị Trấn Trảng Bom","Xã An Viễn","Xã Bắc Sơn","Xã Bàu Hàm","Xã Bình Minh","Xã Cây Gáo","Xã Đồi 61","Xã Đông Hoà","Xã Giang Điền","Xã Hố Nai 3","Xã Hưng Thịnh","Xã Quảng Tiến","Xã Sông Thao","Xã Sông Trầu","Xã Tây Hoà","Xã Thanh Bình","Xã Trung Hoà"]
+huyenvinhcuu=["Huyện Vĩnh Cửu","Thị Trấn Vĩnh An","Xã Bình Hòa","Xã Bình Lợi","Xã Hiếu Liêm","Xã Mã Đà","Xã Phú Lý","Xã Tân An","Xã Tân Bình","Xã Thạnh Phú","Xã Thiện Tân","Xã Trị An","Xã Vĩnh Tân"]
+huyenxuanloc=["Huyện Xuân Lộc","Thị Trấn Gia Ray","Xã Bảo Hoà","Xã Lang Minh","Xã Suối Cao","Xã Suối Cát","Xã Xuân Bắc","Xã Xuân Định","Xã Xuân Hiệp","Xã Xuân Hòa","Xã Xuân Hưng","Xã Xuân Phú","Xã Xuân Tâm","Xã Xuân Thành","Xã Xuân Thọ","Xã Xuân Trường"]
+thanhphobienhoa=["Thành Phố Biên Hoà","Phường An Bình","Phường An Hòa","Phường Bình Đa","Phường Bửu Hòa","Phường Bửu Long","Phường Hiệp Hòa","Phường Hố Nai","Phường Hóa An","Phường Hòa Bình","Phường Long Bình","Phường Long Bình Tân","Phường Phước Tân","Phường Quang Vinh","Phường Quyết Thắng","Phường Tam Hiệp","Phường Tam Hòa","Phường Tam Phước","Phường Tân Biên","Phường Tân Hạnh","Phường Tân Hiệp","Phường Tân Hòa","Phường Tân Mai","Phường Tân Phong","Phường Tân Tiến","Phường Tân Vạn","Phường Thanh Bình","Phường Thống Nhất","Phường Trảng Dài","Phường Trung Dũng","Xã Long Hưng"]
+thanhpholongkhanh=["Thành Phố Long Khánh","Phường Bảo Vinh","Phường Bàu Sen","Phường Phú Bình","Phường Suối Tre","Phường Xuân An","Phường Xuân Bình","Phường Xuân Hoà","Phường Xuân Lập","Phường Xuân Tân","Phường Xuân Thanh","Phường Xuân Trung","Xã Bảo Quang","Xã Bàu Trâm","Xã Bình Lộc","Xã Hàng Gòn"]
+
+tinhdongnai=["Tỉnh Đồng Nai",thanhphobienhoa,thanhpholongkhanh,huyencammy,huyendinhquan,huyenlongthanh,huyennhontrach,huyentanphu,huyenthongnhat,huyentrangbom,huyenvinhcuu,huyenxuanloc]
+
+for huyen in tinhdongnai[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhdongnai[0])))

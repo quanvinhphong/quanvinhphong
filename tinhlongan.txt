@@ -1,0 +1,23 @@
+#Tỉnh Long An
+
+huyenbenluc=["Huyện Bến Lức","Thị Trấn Bến Lức","Xã An Thạnh","Xã Bình Đức","Xã Long Hiệp","Xã Lương Bình","Xã Lương Hòa","Xã Mỹ Yên","Xã Nhựt Chánh","Xã Phước Lợi","Xã Tân Bửu","Xã Tân Hòa","Xã Thạnh Đức","Xã Thạnh Hòa","Xã Thạnh Lợi","Xã Thanh Phú"]
+huyencanduoc=["Huyện Cần Đước","Thị Trấn Cần Đước","Xã Long Cang","Xã Long Định","Xã Long Hòa","Xã Long Hựu Đông","Xã Long Hựu Tây","Xã Long Khê","Xã Long Sơn","Xã Long Trạch","Xã Mỹ Lệ","Xã Phước Đông","Xã Phước Tuy","Xã Phước Vân","Xã Tân Ân","Xã Tân Chánh","Xã Tân Lân","Xã Tân Trạch"]
+huyencangiuoc=["Huyện Cần Giuộc","Thị Trấn Cần Giuộc","Xã Đông Thạnh","Xã Long An","Xã Long Hậu","Xã Long Phụng","Xã Long Thượng","Xã Mỹ Lộc","Xã Phước Hậu","Xã Phước Lại","Xã Phước Lâm","Xã Phước Lý","Xã Phước Vĩnh Đông","Xã Phước Vĩnh Tây","Xã Tân Tập","Xã Thuận Thành"]
+huyenchauthanhlongan=["Huyện Châu Thành","Thị Trấn Tầm Vu","Xã An Lục Long","Xã Bình Quới","Xã Dương Xuân Hội","Xã Hiệp Thạnh","Xã Hòa Phú","Xã Long Trì","Xã Phú Ngãi Trị","Xã Phước Tân Hưng","Xã Thanh Phú Long","Xã Thanh Vĩnh Đông","Xã Thuận Mỹ","Xã Vĩnh Công"]
+huyenduchoa=["Huyện Đức Hoà","Thị Trấn Đức Hòa","Thị Trấn Hậu Nghĩa","Thị Trấn Hiệp Hòa","Xã An Ninh Đông","Xã An Ninh Tây","Xã Đức Hòa Đông","Xã Đức Hòa Hạ","Xã Đức Hòa Thượng","Xã Đức Lập Hạ","Xã Đức Lập Thượng","Xã Hiệp Hòa","Xã Hòa Khánh Đông","Xã Hòa Khánh Nam","Xã Hòa Khánh Tây","Xã Hựu Thạnh","Xã Lộc Giang","Xã Mỹ Hạnh Bắc","Xã Mỹ Hạnh Nam","Xã Tân Mỹ","Xã Tân Phú"]
+huyenduchue=["Huyện Đức Huệ","Thị Trấn Đông Thành","Xã Bình Hòa Bắc","Xã Bình Hòa Hưng","Xã Bình Hòa Nam","Xã Bình Thành","Xã Mỹ Bình","Xã Mỹ Quý Đông","Xã Mỹ Quý Tây","Xã Mỹ Thạnh Bắc","Xã Mỹ Thạnh Đông","Xã Mỹ Thạnh Tây"]
+huyenmochoa=["Huyện Mộc Hoá","Thị Trấn Bình Phong Thạnh","Xã Bình Hòa Đông","Xã Bình Hòa Tây","Xã Bình Hòa Trung","Xã Bình Thạnh","Xã Tân Lập","Xã Tân Thành"]
+huyentanhung=["Huyện Tân Hưng","Thị Trấn Tân Hưng","Xã Hưng Điền","Xã Hưng Điền B","Xã Hưng Hà","Xã Hưng Thạnh","Xã Thạnh Hưng","Xã Vĩnh Bửu","Xã Vĩnh Châu A","Xã Vĩnh Châu B","Xã Vĩnh Đại","Xã Vĩnh Lợi","Xã Vĩnh Thạnh"]
+huyentanthanh=["Huyện Tân Thạnh","Thị Trấn Tân Thạnh","Xã Bắc Hòa","Xã Hậu Thạnh Đông","Xã Hậu Thạnh Tây","Xã Kiến Bình","Xã Nhơn Hoà","Xã Nhơn Hòa Lập","Xã Nhơn Ninh","Xã Tân Bình","Xã Tân Hòa","Xã Tân Lập","Xã Tân Ninh","Xã Tân Thành"]
+huyentantru=["Huyện Tân Trụ","Thị Trấn Tân Trụ","Xã Bình Lãng","Xã Bình Tịnh","Xã Bình Trinh Đông","Xã Đức Tân","Xã Lạc Tấn","Xã Nhựt Ninh","Xã Quê Mỹ Thạnh","Xã Tân Bình","Xã Tân Phước Tây"]
+huyenthanhhoa=["Huyện Thạnh Hoá","Thị Trấn Thạnh Hóa","Xã Tân Đông","Xã Tân Hiệp","Xã Tân Tây","Xã Thạnh An","Xã Thạnh Phú","Xã Thạnh Phước","Xã Thuận Bình","Xã Thuận Nghĩa Hòa","Xã Thủy Đông","Xã Thủy Tây"]
+huyenthuthua=["Huyện Thủ Thừa","Thị Trấn Thủ Thừa","Xã Bình An","Xã Bình Thạnh","Xã Long Thạnh","Xã Long Thuận","Xã Mỹ An","Xã Mỹ Lạc","Xã Mỹ Phú","Xã Mỹ Thạnh","Xã Nhị Thành","Xã Tân Long","Xã Tân Thành"]
+huyenvinhhung=["Huyện Vĩnh Hưng","Thị Trấn Vĩnh Hưng","Xã Hưng Điền A","Xã Khánh Hưng","Xã Thái Bình Trung","Xã Thái Trị","Xã Tuyên Bình","Xã Tuyên Bình Tây","Xã Vĩnh Bình","Xã Vĩnh Thuận","Xã Vĩnh Trị"]
+thanhphotanan=["Thành Phố Tân An","Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7","Phường Khánh Hậu","Phường Tân Khánh","Xã An Vĩnh Ngãi","Xã Bình Tâm","Xã Hướng Thọ Phú","Xã Lợi Bình Nhơn","Xã Nhơn Thạnh Trung"]
+thixakientuong=["Thị Xã Kiến Tường","Phường 1","Phường 2","Phường 3","Xã Bình Hiệp","Xã Bình Tân","Xã Thạnh Hưng","Xã Thạnh Trị","Xã Tuyên Thạnh"]
+
+tinhlongan=["Tỉnh Long An",thanhphotanan,thixakientuong,huyenbenluc,huyencanduoc,huyencangiuoc,huyenchauthanhlongan,huyenduchoa,huyenduchue,huyenmochoa,huyentanhung,huyentanthanh,huyentantru,huyenthanhhoa,huyenthuthua,huyenvinhhung]
+
+for huyen in tinhlongan[1:]:
+    for xa in huyen[1:]:
+        print(" ".join((xa,huyen[0],tinhlongan[0])))

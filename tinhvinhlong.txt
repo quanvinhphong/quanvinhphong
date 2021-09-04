@@ -1,0 +1,12 @@
+#tinhvinhlong=['Tỉnh Vĩnh Long']
+
+huyenvungliem=['Huyện  Vũng Liêm','Thị trấn Vũng Liêm','Xã Hiếu Nghĩa','Xã Hiếu Nhơn','Xã Hiếu Phụng','Xã Hiếu Thành','Xã Hiếu Thuận','Xã Quới An','Xã Quới Thiện','Xã Tân An Luông','Xã Tân Quới Trung','Xã Thanh Bình','Xã Trung An','Xã Trung Chánh','Xã Trung Hiệp','Xã Trung Hiếu','Xã Trung Ngãi','Xã Trung Nghĩa','Xã Trung Thành','Xã Trung Thành Đông','Xã Trung Thành Tây']
+huyenbinhtan=['Huyện Bình Tân','Thị trấn Tân Quới','Xã Mỹ Thuận','Xã Nguyễn Văn Thảnh','Xã Tân An Thạnh','Xã Tân Bình','Xã Tân Hưng','Xã Tân Lược','Xã Tân Thành','Xã Thành Lợi','Xã Thành Trung']
+huyenlongho=['Huyện Long Hồ','Thị trấn Long Hồ','Xã An Bình','Xã Bình Hòa Phước','Xã Đồng Phú','Xã Hòa Ninh','Xã Hòa Phú','Xã Lộc Hòa','Xã Long An','Xã Long Phước','Xã Phú Đức','Xã Phú Quới','Xã Phước Hậu','Xã Tân Hạnh','Xã Thanh Đức','Xã Thạnh Quới']
+huyenmangthit=['Huyện Mang Thít','Thị trấn Cái Nhum','Xã An Phước','Xã Bình Phước','Xã Chánh An','Xã Hòa Tịnh','Xã Long Mỹ','Xã Mỹ An','Xã Mỹ Phước','Xã Nhơn Phú','Xã Tân An Hội','Xã Tân Long','Xã Tân Long Hội']
+huyentambinh=['Huyện Tam Bình','Thị trấn Tam Bình','Xã Bình Ninh','Xã Hậu Lộc','Xã Hòa Hiệp','Xã Hoà Lộc','Xã Hòa Thạnh','Xã Loan Mỹ','Xã Long Phú','Xã Mỹ Lộc','Xã Mỹ Thạnh Trung','Xã Ngãi Tứ','Xã Phú Lộc','Xã Phú Thịnh','Xã Song Phú','Xã Tân Lộc','Xã Tân Phú','Xã Tường Lộc']
+huyentraon=['Huyện Trà Ôn','Thị trấn Trà Ôn','Xã Hòa Bình','Xã Hựu Thành','Xã Lục Sỹ Thành','Xã Nhơn Bình','Xã Phú Thành','Xã Tân Mỹ','Xã Thiện Mỹ','Xã Thới Hòa','Xã Thuận Thới','Xã Tích Thiện','Xã Trà Côn','Xã Vĩnh Xuân','Xã Xuân Hiệp']
+thanhphovinhlong=['Thành phố Vĩnh Long','Phường 1','Phường 2','Phường 3','Phường 4','Phường 5','Phường 8','Phường 9','Phường Tân Hòa','Phường Tân Hội','Phường Tân Ngãi','Phường Trường An']
+thixabinhminh=['Thị xã Bình Minh','Phường Cái Vồn','Phường Đông Thuận','Phường Thành Phước','Xã Đông Bình','Xã Đông Thành','Xã Đông Thạnh','Xã Mỹ Hòa','Xã Thuận An']
+
+tinhvinhlong=['Tỉnh Vĩnh Long',huyenvungliem,huyenbinhtan,huyenlongho,huyenmangthit,huyentambinh,huyentraon,thanhphovinhlong,thixabinhminh]

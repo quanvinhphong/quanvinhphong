@@ -1,0 +1,13 @@
+#tinhtravinh=["Tỉnh Trà Vinh"]
+
+huyencanglong=['Huyện Càng Long','Thị Trấn Càng Long','Xã An Trường','Xã An Trường A','Xã Bình Phú','Xã Đại Phúc','Xã Đại Phước','Xã Đức Mỹ','Xã Huyền Hội','Xã Mỹ Cẩm','Xã Nhị Long','Xã Nhị Long Phú','Xã Phương Thạnh','Xã Tân An','Xã Tân Bình']
+huyencauke=['Huyện Cầu Kè','Thị Trấn Cầu Kè','Xã An Phú Tân','Xã Châu Điền','Xã Hòa Ân','Xã Hoà Tân','Xã Ninh Thới','Xã Phong Phú','Xã Phong Thạnh','Xã Tam Ngãi','Xã Thạnh Phú','Xã Thông Hòa']
+huyencaungang=['Huyện Cầu Ngang','Thị Trấn Cầu Ngang','Thị Trấn Mỹ Long','Xã Hiệp Hòa','Xã Hiệp Mỹ Đông','Xã Hiệp Mỹ Tây','Xã Kim Hòa','Xã Long Sơn','Xã Mỹ Hòa','Xã Mỹ Long Bắc','Xã Mỹ Long Nam','Xã Nhị Trường','Xã Thạnh Hòa Sơn','Xã Thuận Hòa','Xã Trường Thọ','Xã Vĩnh Kim']
+huyenchauthanh=['Huyện Châu Thành','Thị Trấn Châu Thành','Xã Đa Lộc','Xã Hòa Lợi','Xã Hòa Minh','Xã Hòa Thuận','Xã Hưng Mỹ','Xã Long Hòa','Xã Lương Hòa','Xã Lương Hoà A','Xã Mỹ Chánh','Xã Nguyệt Hóa','Xã Phước Hảo','Xã Song Lộc','Xã Thanh Mỹ']
+huyenduyenhai=['Huyện Duyên Hải','Thị Trấn Long Thành','Xã Đôn Châu','Xã Đôn Xuân','Xã Đông Hải','Xã Long Khánh','Xã Long Vĩnh','Xã Ngũ Lạc']
+huyentieucan=['Huyện Tiểu Cần','Thị Trấn Cầu Quan','Thị Trấn Tiểu Cần','Xã Hiếu Trung','Xã Hiếu Tử','Xã Hùng Hòa','Xã Long Thới','Xã Ngãi Hùng','Xã Phú Cần','Xã Tân Hòa','Xã Tân Hùng','Xã Tập Ngãi']
+huyentracu=['Huyện Trà Cú','Thị Trấn Định An','Thị Trấn Trà Cú','Xã An Quảng Hữu','Xã Đại An','Xã Định An','Xã Hàm Giang','Xã Hàm Tân','Xã Kim Sơn','Xã Long Hiệp','Xã Lưu Nghiệp Anh','Xã Ngãi Xuyên','Xã Ngọc Biên','Xã Phước Hưng','Xã Tân Hiệp','Xã Tân Sơn','Xã Tập Sơn','Xã Thanh Sơn']
+thanhphotravinh=['Thành Phố Trà Vinh','Phường 01','Phường 02','Phường 03','Phường 04','Phường 05','Phường 06','Phường 07','Phường 08','Phường 09','Xã Long Đức']
+thixaduyenhai=['Thị Xã Duyên Hải','Phường 01','Phường 02','Xã Dân Thành','Xã Hiệp Thạnh','Xã Long Hữu','Xã Long Toàn','Xã Trường Long Hòa']
+
+tinhtravinh=["Tỉnh Trà Vinh",huyencanglong,huyencauke,huyencaungang,huyenchauthanh,huyenduyenhai,huyentieucan,huyentracu,thanhphotravinh,thixaduyenhai]

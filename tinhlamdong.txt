@@ -1,0 +1,16 @@
+thanhphobaoloc=["Thành Phố Bảo Lộc","Phường 1","Phường 2","Phường B'lao","Phường Lộc Phát","Phường Lộc Sơn","Phường Lộc Tiến","Xã Đại Lào","Xã Đạm Bri","Xã Lộc Châu","Xã Lộc Nga","Xã Lộc Thanh"]
+thanhphodalat=["Thành Phố Đà Lạt","Phường 1","Phường 2","Phường 3","Phường 4","Phường 5","Phường 6","Phường 7","Phường 8","Phường 9","Phường 10","Phường 11","Phường 12","Xã Tà Nung","Xã Trạm Hành","Xã Xuân Thọ","Xã Xuân Trường"]
+huyenbaolam=["Huyện Bảo Lâm","Thị Trấn Lộc Thắng","Xã B' Lá","Xã Lộc An","Xã Lộc Bắc","Xã Lộc Bảo","Xã Lộc Đức","Xã Lộc Lâm","Xã Lộc Nam","Xã Lộc Ngãi","Xã Lộc Phú","Xã Lộc Quảng","Xã Lộc Tân","Xã Lộc Thành","Xã Tân Lạc"]
+huyencattien=["Huyện Cát Tiên","Thị Trấn Cát Tiên","Thị Trấn Phước Cát","Xã Đồng Nai Thượng","Xã Đức Phổ","Xã Gia Viễn","Xã Nam Ninh","Xã Phước Cát 2","Xã Quảng Ngãi","Xã Tiên Hoàng"]
+huyendahuoai=["Huyện Đạ Huoai","Thị Trấn Đạ M'ri","Thị Trấn Ma Đa Guôi","Xã Đạ Oai","Xã Đạ Ploa","Xã Đạ Tồn","Xã Đoàn Kết","Xã Hà Lâm","Xã Ma Đa Guôi","Xã Phước Lộc"]
+huyendamrong=["Huyện Đam Rông","Xã Đạ K' Nàng","Xã Đạ Long","Xã Đạ M' Rong","Xã Đạ Rsal","Xã Đạ Tông","Xã Liêng Srônh","Xã Phi Liêng","Xã Rô Men"]
+huyendateh=["Huyện Đạ Tẻh","Thị Trấn Đạ Tẻh","Xã An Nhơn","Xã Đạ Kho","Xã Đạ Lây","Xã Đạ Pal","Xã Mỹ Đức","Xã Quảng Trị","Xã Quốc Oai","Xã Triệu Hải"]
+huyendilinh=["Huyện Di Linh","Thị Trấn Di Linh","Xã Bảo Thuận","Xã Đinh Lạc","Xã Đinh Trang Hòa","Xã Đinh Trang Thượng","Xã Gia Bắc","Xã Gia Hiệp","Xã Gung Ré","Xã Hòa Bắc","Xã Hòa Nam","Xã Hòa Ninh","Xã Hòa Trung","Xã Liên Đầm","Xã Sơn Điền","Xã Tam Bố","Xã Tân Châu","Xã Tân Lâm","Xã Tân Nghĩa","Xã Tân Thượng"]
+huyendonduong=["Huyện Đơn Dương","Thị Trấn D'Ran","Thị Trấn Thạnh Mỹ","Xã Đạ Ròn","Xã Ka Đô","Xã Ka Đơn","Xã Lạc Lâm","Xã Lạc Xuân","Xã Pró","Xã Quảng Lập","Xã Tu Tra"]
+huyenductrong=["Huyện Đức Trọng","Thị Trấn Liên Nghĩa","Xã Bình Thạnh","Xã Đà Loan","Xã Đa Quyn","Xã Hiệp An","Xã Hiệp Thạnh","Xã Liên Hiệp","Xã Ninh Gia","Xã Ninh Loan","Xã N'Thol Hạ","Xã Phú Hội","Xã Tà Hine","Xã Tà Năng","Xã Tân Hội","Xã Tân Thành"]
+huyenlacduong=["Huyện Lạc Dương","Thị Trấn Lạc Dương","Xã Đạ Chais","Xã Đạ Nhim","Xã Đạ Sar","Xã Đưng KNớ","Xã Lát"]
+huyenlamha=["Huyện Lâm Hà","Thị Trấn Đinh Văn","Thị Trấn Nam Ban","Xã Đạ Đờn","Xã Đan Phượng","Xã Đông Thanh","Xã Gia Lâm","Xã Hoài Đức","Xã Liên Hà","Xã Mê Linh","Xã Nam Hà","Xã Phi Tô","Xã Phú Sơn","Xã Phúc Thọ","Xã Tân Hà","Xã Tân Thanh","Xã Tân Văn"]
+
+tinhlamdong=["Tỉnh Lâm Đồng",thanhphodalat,thanhphobaoloc,huyenbaolam,huyencattien,huyendahuoai,huyendamrong,huyendateh,huyendilinh,huyendonduong,huyenductrong,huyenlacduong,huyenlamha]
+
+LAMDONG=["Thành Phố Đà Lạt","Thành Phố Bảo Lộc","Huyện Bảo Lâm","Huyện Cát Tiên","Huyện Đạ Huoai","Huyện Đạ Tẻh","Huyện Đam Rông","Huyện Di Linh","Huyện Đơn Dương","Huyện Đức Trọng","Huyện Lạc Dương","Huyện Lâm Hà"]
